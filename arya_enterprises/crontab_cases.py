@@ -37,4 +37,4 @@ while (True):
         sys.exit()
 
 # vid.release()
-#cv2.destroyAllWindows()
+# cv2.destroyAllWindows()
